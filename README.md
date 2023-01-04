@@ -8,7 +8,7 @@ Welcome to Danotes! This project is a simple note-taking app that allows you to 
 
 #### **Upcoming Features**
 + Delete specific note using the delete button; multiple deletion
-+ Edit existing notes by clicking on the note you want to edit
++ Editing specific notes
 + Formatting text when adding notes
 + Account feature for privacy?
 
