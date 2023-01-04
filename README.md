@@ -15,15 +15,16 @@ Node.js
 MongoDB
 
 How to run locally
-Make sure you have Node.js and MongoDB installed on your local machine
-Clone this repository and navigate to the project directory
-Run npm install to install all the necessary dependencies
-Start your MongoDB server by running mongod in your terminal
-In a new terminal window, run npm start to start the app
-Open your browser and go to http://localhost:3000 to view the app
+1. Make sure you have Node.js and MongoDB installed on your local machine
+2. Clone this repository and navigate to the project directory
+3. Run npm install to install all the necessary dependencies
+4. Start your MongoDB server by running mongod in your terminal
+5. In a new terminal window, run npm start to start the app
+6. Open your browser and go to http://localhost:3001 to view the app
 
 Credits
-This project was created by @yourusername. Special thanks to the following resources:
+This project was created by @rootViewview. Special thanks to the following resources:
+Visual Studio Code
 Express.js
 Mongoose
 Tailwind CSS
