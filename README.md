@@ -30,7 +30,7 @@ Welcome to Danotes! This project is a simple note-taking app that allows you to 
 > Change the port by editing the app.js file to your desired port number.
 
 ## **Credits**
-This project was created by @rootViewview. Special thanks to the following resources:
+This project was created by @pigeonpoppy. Special thanks to the following resources:
 + [Visual Studio Code](https://code.visualstudio.com/)
 + [Express.js](https://expressjs.com/)
 + [Mongoose](https://mongoosejs.com/)
